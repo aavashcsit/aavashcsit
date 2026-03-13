@@ -87,7 +87,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-aavashcsit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aavashcsit)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Drop%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shresthaavash43@gmail.com)
 
 </div>
 
